@@ -7,14 +7,7 @@
 In the VISTA-Campus. We have constructed a multi-sensor hardware platform designed to accommodate diverse existing and future perception modalities, thereby addressing limitations in current datasets. Our platform integrates a stereo camera, six wide-angle cameras configured for omnidirectional coverage, two 32-beam LiDAR units, an IMU, and an RTK positioning system. The dataset, collected across campus environments, encompasses data under varying temporal and illumination conditions, diverse pedestrian traffic levels, and distinct scenarios including residential areas and open spaces. It incorporates multiple loop closure detection conditions while providing prolonged and long-distance data sequences, making it particularly suitable for long-term SLAM testing and evaluation. Additionally, we have provided object detection annotations for certain sequences containing densely populated objects.
 
 ## Dataset Demo
-<div style="text-align: center; margin-top: 20px;">
-  <video controls style="max-width: 80%; border-radius: 8px;">
-    <source src="src/video/Example_of_VISTA-Campus.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-  <p style="color: #666; font-size: 0.9em;"></p>
-</div>
-
+![Sample Video](img/markdown_video.mp4)
 
 ## Sensor Platform
 <div align="center">

@@ -104,3 +104,4 @@ The figure below shows the trajectory plots of our longest sequence run on vario
 The dataset is currently stored on Baidu Disk and TeraBox. As only peer-to-peer transfer is temporarily supported, if you require the data, please email VISTA_Campus@163.com with your full name, occupation, affiliation, and the specific data sequences you need. This information will be used solely as a reference for dataset promotion purposes, and we hereby confirm that no information from the emails will be disclosed publicly. Upon receiving your request, we will reach out to you promptly to facilitate data access.
 
 Baidu Disk: https://pan.baidu.com/s/1JgErozJq_x-AIyLBcxXfnw?pwd=93gp 
+TeraBox: https://1024terabox.com/s/1dQQM0ohGCWsbFhRv-3h9qw
